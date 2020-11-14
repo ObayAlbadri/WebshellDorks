@@ -1,4 +1,4 @@
-# WebshellsDorks
+# WebshellDorks
 List of Google dorks for common web shells. Created using file names, title tag and H1 tag from the popular webshell repositories.
 
 
